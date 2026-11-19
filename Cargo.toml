@@ -12,7 +12,7 @@ nix = "0.31"
 libc = "0.2"
 
 crossterm = "0.29"
-rustyline = "18"
+rustyline = "19"
 
 git2 = "0.21"
 
